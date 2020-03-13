@@ -8,4 +8,4 @@ Jadi, apa lagi yang mau kutulis?
 
 ## Tentang keseharianku
 
-Tentu saja ada banyak hal menarik yang terjadi sehari-hari. Mungkin pas waktu kita mengalaminya, rasanya biasa aja. Namun, ketika dituliskan lalu kita baca lagi, akan terasa betala serunya waktu kejadian itu berlangsung.
+Tentu saja ada banyak hal menarik yang terjadi sehari-hari. Mungkin pas waktu kita mengalaminya, rasanya biasa aja. Namun, ketika dituliskan lalu kita baca lagi, akan terasa betapa serunya waktu kejadian itu berlangsung.
