@@ -1,10 +1,10 @@
 # Referensi untuk skripsi
 
-- [ ] _______. (2015). Reliabilitas dan Validitas. Yogyakarta: Pustaka Pelajar.
 - [ ] Adicondro, N. & Purnamasari, A. (2011). Efikasi diri, dukungan sosial keluarga, dan self regulated learning pada siswa kelas VIII. Jurnal Humanitas, 8, (1), 17-27.
 - [ ] Alwisol. (2014). Edisi Revisi Psikologi Kepribadian. Malang: UMM Press.
 - [ ] Arikunto, S. (2014). Prosedur Penelitian: Suatu Pendekatan Praktik. Jakarta: Rineka Cipta.
 - [ ] Azwar, S. (2016). Penyusunan Skala Psikologi. Yogyakarta: Pustaka Pelajar.
+- [ ] _______. (2015). Reliabilitas dan Validitas. Yogyakarta: Pustaka Pelajar.
 - [ ] Bandura, A. (2002). Self-Efficacy: The Exercise of Control. New York: W. H. Freeman and Company.
 - [ ] Bulmer, M. (2015). The Social Basic of Community Care (Routledge Revivals). New York: Routledge.
 - [ ] Bundu, P. (2017). Asesmen Autentik dalam Pembelajaran. Yogyakarta: Deepublish.
