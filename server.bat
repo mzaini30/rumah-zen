@@ -1,0 +1,1 @@
+plugin\tinyweb\tiny %cd%
