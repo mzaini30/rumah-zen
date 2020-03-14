@@ -7,4 +7,5 @@
 - Sofia kecil
   - [Menanti](/sofia-kecil/menanti "Menanti sang buah hati")
 - Skripsi
+  - [Menyiapkan referensi](/skripsi/referensi)
   - [Pendadaran](/skripsi/pendadaran)
