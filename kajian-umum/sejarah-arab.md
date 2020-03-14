@@ -1,6 +1,6 @@
 # Sejarah arab
 
-Arab: gersang.
+Arab: Gersang.
 
 ## Asal 3
 
@@ -51,3 +51,7 @@ Arab: gersang.
   Terus ke palestin. Masih belum punya anak. Jarnya sarah: Nikah dah sama hajar.
   
   > Hadits: Berlemah-lembutlah dengan orang mesir karena kita punya kekerabatan.
+  
+  Bakkah: Sesuatu yang menonjol.
+  
+  6 tahun setelah ismail, sarah hamil.
