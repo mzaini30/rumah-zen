@@ -1,10 +1,10 @@
 # Referensi untuk skripsi
 
-- [ ] Adicondro, N. & Purnamasari, A. (2011). Efikasi diri, dukungan sosial keluarga, dan self regulated learning pada siswa kelas VIII. Jurnal Humanitas, 8, (1), 17-27.
+- [x] Adicondro, N. & Purnamasari, A. (2011). Efikasi diri, dukungan sosial keluarga, dan self regulated learning pada siswa kelas VIII. Jurnal Humanitas, 8, (1), 17-27.
 - [ ] Alwisol. (2014). Edisi Revisi Psikologi Kepribadian. Malang: UMM Press.
 - [ ] Arikunto, S. (2014). Prosedur Penelitian: Suatu Pendekatan Praktik. Jakarta: Rineka Cipta.
-- [ ] Azwar, S. (2016). Penyusunan Skala Psikologi. Yogyakarta: Pustaka Pelajar.
 - [ ] Azwar, S. (2015). Reliabilitas dan Validitas. Yogyakarta: Pustaka Pelajar.
+- [ ] Azwar, S. (2016). Penyusunan Skala Psikologi. Yogyakarta: Pustaka Pelajar.
 - [ ] Bandura, A. (2002). Self-Efficacy: The Exercise of Control. New York: W. H. Freeman and Company.
 - [ ] Bulmer, M. (2015). The Social Basic of Community Care (Routledge Revivals). New York: Routledge.
 - [ ] Bundu, P. (2017). Asesmen Autentik dalam Pembelajaran. Yogyakarta: Deepublish.
@@ -20,7 +20,7 @@
 - [ ] Hamalik, O. (2010). Proses Belajar Mengajar. Jakarta: Bumi Aksara.
 - [ ] Kamus Besar Bahasa Indonesia. Edisi Keempat. (2008). Jakarta: Gramedia Pustaka Utama.
 - [x] Kaplan, A., Patrick, H., & Ryan, A. M. (2007). Early adolescents' perception of  classroom social environment, motivational belief, and engagement.  Journal of Educational Psychology, 99, (I), 83-89.
-- [ ] Manizar, E. (2015). Peran Guru sebagai Motivator dalam Belajar. Tadrib, 1, (2), 171-188.
+- [x] Manizar, E. (2015). Peran Guru sebagai Motivator dalam Belajar. Tadrib, 1, (2), 171-188.
 - [ ] Myers, G. D. (2012). Psikologi Sosial (edisi ke-10). Jakarta: Salemba Humanika.
 - [x] Oktaverina, I. & Nashori, H. F. (2015). Efektivitas Pelatihan Efikasi Diri dalam Meningkatkan Motivasi Belajar Matematika Siswa Sekolah Menengah Pertama. Jurnal Talenta, 1, (1), 1-14.
 - [ ] Ormrod, J. E. (2011). Educational Psychology Developing Learners (edisi ke-7). Boston: Pearson.
