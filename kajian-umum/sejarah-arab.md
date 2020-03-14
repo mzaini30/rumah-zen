@@ -29,3 +29,25 @@ Arab: gersang.
   > Kadang kita tahan dengan cobaan. Tapi nggak siap dengan kenikmatan dan kekayaan.
   
   Awal bencana: banjir.
+  
+  Penduduk saba: amr bin amir. Solih.
+  
+  > Rasul: Berhati-hatilah dengan firasat mukmin.
+  
+  Amr bin amir hijrah ke mekkah pas tau mau ada bencana.
+  
+- Arab musta'ribah.
+
+  Irak. Kebudayaan mesopotamia. Ibrahim dari irak. 
+  
+  Hijrah ke palestin terus sampai mesir.
+  
+  Terus ketemu firaun. Kelakuan firaun, nggak bisa ngelihat cewek cantik.
+  
+  Ibrahim suruh istrinya (sarah) pura-pura jadi adeknya ibrahim. Budaya mesir: kakak lebih berhak ngelindungin adeknya daripada suaminya.
+  
+  Terus di mesir dikasih hajar sebagai budak.
+  
+  Terus ke palestin. Masih belum punya anak. Jarnya sarah: Nikah dah sama hajar.
+  
+  > Hadits: Berlemah-lembutlah dengan orang mesir karena kita punya kekerabatan.
