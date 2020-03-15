@@ -3,6 +3,8 @@
 - Buku
   - [Nyaman dengan buku](/buku/nyaman-dengan-buku)
 - Pengajian
+  - Akidah
+    - [Iman](/akidah/iman)
   - Sejarah 
     - [Sejarah arab](/sejarah/sejarah-arab)
 - Sofia kecil
