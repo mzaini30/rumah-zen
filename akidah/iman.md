@@ -39,7 +39,10 @@ Akar: iman. Muncul ke atas: islam (amal). Islam menghasilkan ihsan.
   
   Diawali dengan syahadah.
   
-  Jamaah => 4:58-59
-  
 - Bunyanul Islam
+
+  Jamaah => 4:58-59
+
 - Natijatul islam 
+
+  Hasilnya: sabar, ikhlas, dll.
