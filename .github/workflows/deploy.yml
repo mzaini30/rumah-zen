@@ -38,6 +38,14 @@ jobs:
       - run: pnpm build
       - run: node script/add-cname.mjs
       - run: node script/kasih-adsense.mjs
+
+      - run: mkdir public
+      - run: node script/sitemap.mjs
+      - run: rm public/sitemap.xml
+      - run: mv public/sitemap.xsl output/
+      - run: mv public/sitemap-rumahzen.xml output/sitemap.xml
+      - run: rm -rf public
+
       - run: mv output docs
 
       - uses: stefanzweifel/git-auto-commit-action@v4

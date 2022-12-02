@@ -2,16 +2,22 @@ lockfileVersion: 5.4
 
 specifiers:
   cup-readdir: ^1.0.3
+  sitemap-manager: ^2.2.0
   tiddlywiki: ^5.2.3
 
 dependencies:
   cup-readdir: 1.0.3
+  sitemap-manager: 2.2.0
   tiddlywiki: 5.2.3
 
 packages:
 
   /cup-readdir/1.0.3:
     resolution: {integrity: sha512-jXafQU1SiHd0LeZzOtqDODC42PXUQs7boKyNJM5NvCRa0Oc798O476tb5lxKq9slgC0uLAk0Po5aut4Nku322Q==}
+    dev: false
+
+  /sitemap-manager/2.2.0:
+    resolution: {integrity: sha512-NVm4ferIDrEjtOmurvCHL2i3NDfzMdHDH9urHwHOlUsH/yJ6Yu2SoOPAUq63d52snDeoxSkWILOJZjebIfXLMg==}
     dev: false
 
   /tiddlywiki/5.2.3:
