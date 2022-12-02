@@ -1,4 +1,2 @@
-access_log
-agent_log
-error_log
-referrer_log
+node_modules
+output

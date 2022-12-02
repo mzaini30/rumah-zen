@@ -1,0 +1,15 @@
+lockfileVersion: 5.4
+
+specifiers:
+  tiddlywiki: ^5.2.3
+
+dependencies:
+  tiddlywiki: 5.2.3
+
+packages:
+
+  /tiddlywiki/5.2.3:
+    resolution: {integrity: sha512-kf09XBI0bswr27pM6WBj/Vek4ATle83HwAtg8rPqJ8cjcC2/xX2SLEamiT8q4AAexjDDlQA05IlcPhhGtF0j6A==}
+    engines: {node: '>=0.8.2'}
+    hasBin: true
+    dev: false
