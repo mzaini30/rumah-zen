@@ -1,5 +1,5 @@
 created: 20221202145257144
-modified: 20221202145420181
+modified: 20221202234023988
 tags: development
 title: Github Actions untuk Deploy PNPM
 type: text/vnd.tiddlywiki
@@ -43,5 +43,9 @@ jobs:
 
       - run: node app.mjs
 
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
 ```
