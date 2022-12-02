@@ -1,15 +1,22 @@
 lockfileVersion: 5.4
 
 specifiers:
+  cup-readdir: ^1.0.3
   tiddlywiki: ^5.2.3
 
 dependencies:
+  cup-readdir: 1.0.3
   tiddlywiki: 5.2.3
 
 packages:
+
+  /cup-readdir/1.0.3:
+    resolution: {integrity: sha512-jXafQU1SiHd0LeZzOtqDODC42PXUQs7boKyNJM5NvCRa0Oc798O476tb5lxKq9slgC0uLAk0Po5aut4Nku322Q==}
+    dev: false
 
   /tiddlywiki/5.2.3:
     resolution: {integrity: sha512-kf09XBI0bswr27pM6WBj/Vek4ATle83HwAtg8rPqJ8cjcC2/xX2SLEamiT8q4AAexjDDlQA05IlcPhhGtF0j6A==}
     engines: {node: '>=0.8.2'}
     hasBin: true
     dev: false
+    bundledDependencies: []

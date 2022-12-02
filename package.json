@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cup-readdir": "^1.0.3",
     "tiddlywiki": "^5.2.3"
   }
 }

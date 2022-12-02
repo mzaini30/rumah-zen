@@ -37,6 +37,7 @@ jobs:
       - run: rm -rf docs
       - run: pnpm build
       - run: node script/add-cname.mjs
+      - run: node script/kasih-adsense.mjs
       - run: mv output docs
 
       - uses: stefanzweifel/git-auto-commit-action@v4
