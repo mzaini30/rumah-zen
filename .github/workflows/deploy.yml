@@ -34,6 +34,7 @@ jobs:
       - name: Install dependencies
         run: pnpm install
 
+      - run: rm -rf docs
       - run: pnpm build
       - run: node script/add-cname.mjs
       - run: mv output docs
