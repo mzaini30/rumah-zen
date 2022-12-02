@@ -175,6 +175,8 @@ Error message and password prompt
 
 <li>Github Actions untuk Deploy PNPM</li>
 
+<li>Github Actions untuk Node JS dan GH Pages</li>
+
 <li>Hello World</li>
 
 <li>Hidup yang Sesungguhnya</li>
@@ -240,6 +242,8 @@ Error message and password prompt
 {"title":"Dakwah adalah Kewajiban Semua Orang","created":"20221202223818957","modified":"20221202224020414","tags":"kehidupan","type":"text/vnd.tiddlywiki","text":"Dengan berdakwah, kita bisa mengajak banyak orang lagi ke surga.","revision":"0","bag":"default"},
 
 {"title":"Github Actions untuk Deploy PNPM","created":"20221202145257144","modified":"20221202145420181","tags":"development","type":"text/vnd.tiddlywiki","text":"```yaml\nname: run\non:\n  schedule:\n    - cron: 0 0/4 * * *\n  push:\n    branches:\n      - master\njobs:\n  scheduled:\n    runs-on: ubuntu-latest\n    steps:\n      - uses: actions/checkout@v2\n      - uses: actions/setup-node@v3\n        with:\n          node-version: 16\n      - uses: pnpm/action-setup@v2\n        name: Install pnpm\n        id: pnpm-install\n        with:\n          version: 7\n          run_install: false\n      - name: Get pnpm store directory\n        id: pnpm-cache\n        shell: bash\n        run: |\n          echo \"STORE_PATH=$(pnpm store path)\" >> $GITHUB_OUTPUT\n      - uses: actions/cache@v3\n        name: Setup pnpm cache\n        with:\n          path: ${{ steps.pnpm-cache.outputs.STORE_PATH }}\n          key: ${{ runner.os }}-pnpm-store-${{ hashFiles('**/pnpm-lock.yaml') }}\n          restore-keys: |\n            ${{ runner.os }}-pnpm-store-\n      - name: Install dependencies\n        run: pnpm install\n\n      - run: node app.mjs\n\n      - uses: stefanzweifel/git-auto-commit-action@v4\n```","revision":"0","bag":"default"},
+
+{"title":"Github Actions untuk Node JS dan GH Pages","created":"20221202225732230","modified":"20221202225831455","tags":"development","type":"text/vnd.tiddlywiki","text":"```yaml\nname: Deploy\n\non:\n  push:\n    branches:\n      - master\n\njobs:\n  deploy:\n    runs-on: ubuntu-18.04\n    steps:\n      - uses: actions/checkout@v2\n        with:\n          submodules: true\n\n      - name: Setup Node\n        uses: actions/setup-node@v1\n        with:\n          node-version: \"14.x\"\n\n      - name: Cache dependencies Node\n        uses: actions/cache@v1\n        with:\n          path: ~/.npm\n          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}\n          restore-keys: ${{ runner.os }}-node-\n\n      - name: Install\n        run: npm i\n\n      - name: Build Svelte\n        run: npm run build\n\n      - name: Deploy\n        uses: peaceiris/actions-gh-pages@v3\n        with:\n          github_token: ${{ secrets.GITHUB_TOKEN }}\n          publish_dir: ./public\n```","revision":"0","bag":"default"},
 
 {"title":"Hello World","created":"20221202123508893","modified":"20221202133910515","tags":"perkenalan","type":"text/vnd.tiddlywiki","text":"Ini adalah tiddler pertama di TiddlyWiki ini. Lumayan sih. Semoga nyaman.","revision":"0","bag":"default"},
 
