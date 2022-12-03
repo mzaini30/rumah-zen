@@ -13,7 +13,7 @@ data = data.filter((x) => x.endsWith(".html"));
 for (let x of data) {
   MySitemap.addUrl(/*Category name here*/ "rumahzen", [
     {
-      loc: `https://rumahzen.thedev.id/${x.replace("output/", "")}` /*URL*/,
+      loc: `https://rumahzen.thedev.id/${x.replace("output/", "").replaceAll("%", "%25")}` /*URL*/,
       lastmod: new Date() /*Last modification time*/,
       changefreq: 7 /*Change frequence*/,
       priority: 1.0 /*Priority*/,
